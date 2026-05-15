@@ -8,4 +8,4 @@ Lý do chọn:
 - Adapter tự xử lý việc chuyển đổi event API Gateway sang request/response của Express
 
 Cold start đo được: 256.54 ms (Init Duration từ CloudWatch log)
-!Lambda API Gateway(./image_2026-05-16_001558263.png)
+![AWS Lambda Function Overview — byol-node-express with API Gateway trigger](image_2026-05-16_001558263.png)
